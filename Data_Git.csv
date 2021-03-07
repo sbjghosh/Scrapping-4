@@ -1,0 +1,26 @@
+,Repository Title,Repository Description,Language,Contributor count
+0,dolthub / dolt,Dolt – It's Git for Data,Go 95.6% Shell 4.3% Python 0.1% Lua 0.0% C# 0.0% C 0.0%,21
+1,openai / CLIP,Contrastive Language-Image Pretraining,Jupyter Notebook 99.1% Python 0.9%,3
+2,google / googletest,Googletest - Google Testing and Mocking Framework,C++ 84.7% Python 12.3% CMake 1.0% C 0.9% Starlark 0.7% Shell 0.3% Makefile 0.1%,316
+3,flutter / flutter,"We think Flutter will help you create beautiful, fast apps, with a productive, extensible and open development model.",Dart 99.2% Objective-C 0.2% Java 0.2% C++ 0.1% Shell 0.1% CMake 0.1% Other 0.1%,815
+4,git / git,Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.,C 48.5% Shell 36.6% Perl 6.3% Tcl 4.6% Python 1.9% Makefile 0.8% Other 1.3%,"1,446"
+5,dwisiswant0 / apkleaks,"Scanning APK file for URIs, endpoints & secrets.",Python 100.0%,3
+6,coolsnowwolf / lede,Lean's OpenWrt source,C 88.5% Makefile 3.8% Shell 2.1% C++ 1.5% Roff 1.1% Python 0.6% Other 2.4%,229
+7,Developer-Y / cs-video-courses,List of Computer Science courses with video lectures.,"CS 224d - Deep Learning for Natural Language Processing, Stanford University (Lectures - Youtube) CS 224N - Natural Language Processing, Stanford University (Lecture videos) CS 124 - From Languages to Information - Stanford University MOOC - Natural Language Processing, Dan Jurafsky & Chris Manning - Coursera fast.ai Code-First Intro to Natural Language Processing (Github) MOOC - Natural Language Processing - Coursera, University of Michigan CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University CS224U: Natural Language Understanding - Spring 2019 - Stanford University Deep Learning for Natural Language Processing, 2017 - Oxford University Machine Learning for Robotics and Computer Vision, WS 2013/2014 - TU München (YouTube) Informatics 1 - Cognitive Science 2015/16- University of Edinburgh Informatics 2A - Processing Formal and Natural Languages 2016-17 - University of Edinburgh Computational Cognitive Science 2015/16- University of Edinburgh Accelerated Natural Language Processing 2015/16- University of Edinburgh Natural Language Processing - IIT Bombay NOC:Deep Learning For Visual Computing - IIT Kharagpur CS 11-747 - Neural Nets for NLP - 2019 - CMU Natural Language Processing - Michael Collins - Columbia University Deep Learning for Computer Vision - University of Michigan CMU CS11-737 - Multilingual Natural Language Processing",43
+8,gskinnerTeam / flutter-folio,"We exist to build inovative digital experiences for smart clients, and we love how easy Flutter makes that experience. Don't hesitate to stop by our site to learn more about what we do. We'd love to hear from you!",Dart 90.7% C++ 4.8% CMake 2.7% Swift 0.6% HTML 0.5% Ruby 0.5% Other 0.2%,4
+9,connor-create / wsbtrades,NA,Python 100.0%,1
+10,facebookresearch / d2go,D2Go is a toolkit for efficient deep learning,Python 91.5% Cuda 7.7% C++ 0.8%,9
+11,microsoft / CSS-Exchange,Exchange Server support tools and scripts,PowerShell 94.6% HTML 4.4% Lua 1.0%,8
+12,sarven / unit-testing-tips,Unit testing tips by examples in PHP,NA,3
+13,kilimchoi / engineering-blogs,A curated list of engineering blogs,Ruby 100.0%,335
+14,MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator,AZ-104 Microsoft Azure Administrator,PowerShell 100.0%,38
+15,florinpop17 / app-ideas,A Collection of application ideas which can be used to improve your coding skills.,NA,68
+16,trekhleb / javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,JavaScript 100.0%,139
+17,freefq / free,翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子,NA,1
+18,nushell / nushell,A new type of shell,Rust 99.9% Dockerfile 0.1%,200
+19,Shopify / upgrow,A sustainable architecture for Ruby on Rails.,Ruby 86.3% HTML 11.6% JavaScript 1.1% CSS 1.0%,8
+20,thunlp / GNNPapers,Must-read papers on graph neural networks (GNN),NA,23
+21,getzola / zola,A fast static site generator in a single binary with everything built-in. https://www.getzola.org,Rust 94.3% HTML 2.2% Shell 1.4% PowerShell 1.2% Python 0.8% Dockerfile 0.1%,218
+22,microsoft / vscode,Visual Studio Code,TypeScript 93.7% JavaScript 3.4% CSS 1.5% Inno Setup 0.8% HTML 0.5% Shell 0.1%,"1,370"
+23,muguruzawang / jd_maotai_seckill,优化版本的京东茅台抢购神器,Python 100.0%,1
+24,acantril / learn-cantrill-io-labs,Standard and Advanced Demos for learn.cantrill.io courses,Shell 52.0% PowerShell 18.8% JavaScript 18.0% HTML 4.1% PHP 3.9% Python 3.2%,9

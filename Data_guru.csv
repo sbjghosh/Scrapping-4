@@ -1,0 +1,42 @@
+,Exception,Description
+0,ElementNotVisibleException,This type of Selenium exception occurs when an existing element in DOM has a feature set as hidden.
+1,ElementNotSelectableException,"This Selenium exception occurs when an element is presented in the DOM, but you can be able to select. Therefore, it is not possible to interact."
+2,NoSuchElementException,This Exception occurs if an element could not be found.
+3,NoSuchFrameException,This Exception occurs if the frame target to be switched to does not exist.
+4,NoAlertPresentException,This Exception occurs when you switch to no presented alert.
+5,NoSuchWindowException,This Exception occurs if the window target to be switch does not exist.
+6,StaleElementReferenceException,This Selenium exception occurs happens when the web element is detached from the current DOM.
+7,SessionNotFoundException,The WebDriver is acting after you quit the browser.
+8,TimeoutException,"Thrown when there is not enough time for a command to be completed. For Example, the element searched wasn't found in the specified time."
+9,WebDriverException,This Exception takes place when the WebDriver is acting right after you close the browser.
+10,ConnectionClosedException,This type of Exception takes place when there is a disconnection in the driver.
+11,ElementClickInterceptedException,The command may not be completed as the element receiving the events is concealing the element which was requested clicked.
+12,ElementNotInteractableException,"This Selenium exception is thrown when any element is presented in the DOM. However, it is impossible to interact with such an element."
+13,ErrorInResponseException,This happens while interacting with the Firefox extension or the remote driver server.
+14,ErrorHandler.UnknownServerException,Exception is used as a placeholder in case if the server returns an error without a stack trace.
+15,ImeActivationFailedException,This expectation will occur when IME engine activation has failed.
+16,ImeNotAvailableException,It takes place when IME support is unavailable.
+17,InsecureCertificateException,Navigation made the user agent to hit a certificate warning. This can cause by an invalid or expired TLS certificate.
+18,InvalidArgumentException,It occurs when an argument does not belong to the expected type.
+19,InvalidCookieDomainException,This happens when you try to add a cookie under a different domain instead of current URL.
+20,InvalidCoordinatesException,This type of Exception matches an interacting operation that is not valid.
+21,InvalidElementStateExceptio,It occurs when command can't be finished when the element is invalid.
+22,InvalidSessionIdException,This Exception took place when the given session ID is not included in the list of active sessions. It means the session does not exist or is inactive either.
+23,InvalidSwitchToTargetException,This occurs when the frame or window target to be switched does not exist.
+24,JavascriptException,This issue occurs while executing JavaScript given by the user.
+25,JsonException,It occurs when you afford to get the session when the session is not created.
+26,NoSuchAttributeException,This kind of Exception occurs when the attribute of an element could not be found.
+27,MoveTargetOutOfBoundsException,"It takes place if the target provided to the ActionChains move() methodology is not valid. For Example, out of the document."
+28,NoSuchContextException,ContextAware does mobile device testing.
+29,NoSuchCookieException,This Exception occurs when no cookie matching with the given pathname found for all the associated cookies of the currently browsing document.
+30,NotFoundException,This Exception is a subclass of WebDriverException. This will occur when an element on the DOM does not exist.
+31,RemoteDriverServerException,This Selenium exception is thrown when the server is not responding because of the problem that the capabilities described are not proper.
+32,ScreenshotException,It is not possible to capture a screen.
+33,SessionNotCreatedException,It happens when a new session could not be successfully created.
+34,UnableToSetCookieException,This occurs if a driver is unable to set a cookie.
+35,UnexpectedTagNameException,Happens if a support class did not get a web element as expected.
+36,UnhandledAlertException,"This expectation occurs when there is an alert, but WebDriver is not able to perform Alert operation."
+37,UnexpectedAlertPresentException,It occurs when there is the appearance of an unexpected alert.
+38,UnknownMethodException,This Exception happens when the requested command matches with a known URL but and not matching with a methodology for a specific URL.
+39,UnreachableBrowserException,This Exception occurs only when the browser is not able to be opened or crashed because of some reason.
+40,UnsupportedCommandException,This occurs when remote WebDriver does n't send valid commands as expected.
